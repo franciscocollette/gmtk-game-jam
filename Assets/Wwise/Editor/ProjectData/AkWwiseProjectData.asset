@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: effc7271932aaf74d915e5b53820456e, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 982687ccfba646409ba5616ae2c898a4
+    GuidInternal: 
+    m_lastTime: -8585127074120654681
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: a978344cc717924796e24bcbce105673
+    GuidInternal: 
+    m_lastTime: -8585127074120943891
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 17ceb85a4d694c428234ed2124260af3
+    GuidInternal: 
+    m_lastTime: -8585126938795202358
+    List:
+    - name: mysoundbanko
+      guid: 6eda3b21cfa6f5409054ed17d03144e3
+      id: 1181001005
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: mysoundbanko
+        ObjectType: 7
+      Path: Default Work Unit\mysoundbanko
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: d556abc6151b4e4292b6bab9894aa88d
+    GuidInternal: 
+    m_lastTime: -8585126934233960084
+    List:
+    - name: hit_tree
+      guid: 904120b7a0dddb4c8bb73003f8c4ba1a
+      id: 1890347823
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: hit_tree
+        ObjectType: 3
+      Path: Default Work Unit\hit_tree
+      maxAttenuation: 0
+      maxDuration: 331714
+      minDuration: 288774
+    - name: monster_die
+      guid: 2234e408aecbb043b0bce67662472f3e
+      id: 2224544450
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: monster_die
+        ObjectType: 3
+      Path: Default Work Unit\monster_die
+      maxAttenuation: 0
+      maxDuration: 752704
+      minDuration: 662881
+    - name: monster_grunt
+      guid: 0d9691075670f74faf058eeeed86dda3
+      id: 1523418118
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: monster_grunt
+        ObjectType: 3
+      Path: Default Work Unit\monster_grunt
+      maxAttenuation: 50000000
+      maxDuration: -1
+      minDuration: -1
+    - name: monster_hurt
+      guid: 7e6e9c572792734687b91f6c3e2966ba
+      id: 2263242755
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: monster_hurt
+        ObjectType: 3
+      Path: Default Work Unit\monster_hurt
+      maxAttenuation: 0
+      maxDuration: 509469
+      minDuration: 347070
+    - name: play_ambients
+      guid: 962fd6b78c3ceb4492de8f69032fb6ad
+      id: 94063961
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: play_ambients
+        ObjectType: 3
+      Path: Default Work Unit\play_ambients
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: play_footsteps
+      guid: e874fa016e381d4d8d64692c128112a7
+      id: 3854155799
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: play_footsteps
+        ObjectType: 3
+      Path: Default Work Unit\play_footsteps
+      maxAttenuation: 0
+      maxDuration: 341633
+      minDuration: 297910
+    - name: player_attack
+      guid: a85bf994b71b744d83e8117e0dbd3751
+      id: 2824512041
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: player_attack
+        ObjectType: 3
+      Path: Default Work Unit\player_attack
+      maxAttenuation: 0
+      maxDuration: 410792
+      minDuration: 365974
+    - name: player_harvest
+      guid: 32dfcfde45acfa489fcc58d411dd1b46
+      id: 3646203024
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: player_harvest
+        ObjectType: 3
+      Path: Default Work Unit\player_harvest
+      maxAttenuation: 0
+      maxDuration: 601576
+      minDuration: 535944
+    - name: player_hurt
+      guid: 8c3fe9de2a4b4343a3a30bcd69ca8015
+      id: 1068092414
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: player_hurt
+        ObjectType: 3
+      Path: Default Work Unit\player_hurt
+      maxAttenuation: 0
+      maxDuration: 641505
+      minDuration: 543711
+    - name: special_attack
+      guid: 58170b401d49f34fae720783274a2100
+      id: 2512139449
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: special_attack
+        ObjectType: 3
+      Path: Default Work Unit\special_attack
+      maxAttenuation: 0
+      maxDuration: 979333
+      minDuration: 979333
+    - name: special_harvest
+      guid: 9e57c4e87d77fd479f0977b3be5399a5
+      id: 3280866240
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: special_harvest
+        ObjectType: 3
+      Path: Default Work Unit\special_harvest
+      maxAttenuation: 0
+      maxDuration: 2718750
+      minDuration: 2718750
+    - name: transformation_harvest
+      guid: fe59587511974a47acb281fa270384ec
+      id: 1036711060
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: transformation_harvest
+        ObjectType: 3
+      Path: Default Work Unit\transformation_harvest
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: transformation_warrior
+      guid: bc8b1958fb07a7468a77af19a33958b7
+      id: 2628114393
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: transformation_warrior
+        ObjectType: 3
+      Path: Default Work Unit\transformation_warrior
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: turn_down_destruction
+      guid: effd9f9f0deec54cad3df76c2c9c1326
+      id: 3421266130
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: turn_down_destruction
+        ObjectType: 3
+      Path: Default Work Unit\turn_down_destruction
+      maxAttenuation: 0
+      maxDuration: 1408437
+      minDuration: 1408437
+    - name: turn_up_destruction
+      guid: 5efe40a8ba18324397d1c66f59cdb8cc
+      id: 47961629
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: turn_up_destruction
+        ObjectType: 3
+      Path: Default Work Unit\turn_up_destruction
+      maxAttenuation: 0
+      maxDuration: 1290061
+      minDuration: 1290061
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: a1ea14105bef4e49a11532c16ffa2e26
+    GuidInternal: 
+    m_lastTime: -8585127074120614782
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: d535a7a472ac2d4b8460db06ce1dd6b2
+    GuidInternal: 
+    m_lastTime: -8585127074120804283
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 963ddd42622aef40b1850746bf56e3ef
+    GuidInternal: 
+    m_lastTime: -8585127074120784336
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 6336f31abcec174399047ac937549068
+    GuidInternal: 
+    m_lastTime: -8585127074120315584
+    List: []
+  ExpandedItems:
+  - /GMTK 2023_WwiseProject
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

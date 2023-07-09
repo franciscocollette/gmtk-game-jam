@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1181001005" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\mysoundbanko</ObjectPath>
+			<ShortName>mysoundbanko</ShortName>
+			<Path>mysoundbanko.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1890347823" Name="hit_tree" ObjectPath="\Events\Default Work Unit\hit_tree" DurationType="OneShot" DurationMin="0.288774" DurationMax="0.331714"/>
+				<Event Id="2224544450" Name="monster_die" ObjectPath="\Events\Default Work Unit\monster_die" DurationType="OneShot" DurationMin="0.662881" DurationMax="0.752704"/>
+				<Event Id="1523418118" Name="monster_grunt" ObjectPath="\Events\Default Work Unit\monster_grunt" MaxAttenuation="50.000000" DurationType="Infinite"/>
+				<Event Id="2263242755" Name="monster_hurt" ObjectPath="\Events\Default Work Unit\monster_hurt" DurationType="OneShot" DurationMin="0.347070" DurationMax="0.509469"/>
+				<Event Id="94063961" Name="play_ambients" ObjectPath="\Events\Default Work Unit\play_ambients" DurationType="Infinite"/>
+				<Event Id="3854155799" Name="play_footsteps" ObjectPath="\Events\Default Work Unit\play_footsteps" DurationType="OneShot" DurationMin="0.297910" DurationMax="0.341633"/>
+				<Event Id="2824512041" Name="player_attack" ObjectPath="\Events\Default Work Unit\player_attack" DurationType="OneShot" DurationMin="0.365974" DurationMax="0.410792"/>
+				<Event Id="3646203024" Name="player_harvest" ObjectPath="\Events\Default Work Unit\player_harvest" DurationType="OneShot" DurationMin="0.535944" DurationMax="0.601576"/>
+				<Event Id="1068092414" Name="player_hurt" ObjectPath="\Events\Default Work Unit\player_hurt" DurationType="OneShot" DurationMin="0.543711" DurationMax="0.641505"/>
+				<Event Id="2512139449" Name="special_attack" ObjectPath="\Events\Default Work Unit\special_attack" DurationType="OneShot" DurationMin="0.979333" DurationMax="0.979333"/>
+				<Event Id="3280866240" Name="special_harvest" ObjectPath="\Events\Default Work Unit\special_harvest" DurationType="OneShot" DurationMin="2.718750" DurationMax="2.718750"/>
+				<Event Id="3421266130" Name="turn_down_destruction" ObjectPath="\Events\Default Work Unit\turn_down_destruction" DurationType="OneShot" DurationMin="1.408437" DurationMax="1.408437"/>
+				<Event Id="47961629" Name="turn_up_destruction" ObjectPath="\Events\Default Work Unit\turn_up_destruction" DurationType="OneShot" DurationMin="1.290061" DurationMax="1.290061"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="27182183" Language="SFX">
+					<ShortName>step 3 [2023-07-09 113325].wav</ShortName>
+					<Path>SFX\step 3 [2023-07-09 113325]_10C4C929.wem</Path>
+				</File>
+				<File Id="57319715" Language="SFX">
+					<ShortName>fire blast [2023-07-09 113325].wav</ShortName>
+					<Path>SFX\fire blast [2023-07-09 113325]_62F7715A.wem</Path>
+				</File>
+				<File Id="59866153" Language="SFX">
+					<ShortName>transformation down.wav</ShortName>
+					<Path>SFX\transformation down_10C4C929.wem</Path>
+				</File>
+				<File Id="88064209" Language="SFX">
+					<ShortName>transformation up.wav</ShortName>
+					<Path>SFX\transformation up_AE906883.wem</Path>
+				</File>
+				<File Id="91241968" Language="SFX">
+					<ShortName>player hurt [2023-07-09 113326].wav</ShortName>
+					<Path>SFX\player hurt [2023-07-09 113326]_10C4C929.wem</Path>
+				</File>
+				<File Id="92000875" Language="SFX">
+					<ShortName>monster hurt [2023-07-09 113325].wav</ShortName>
+					<Path>SFX\monster hurt [2023-07-09 113325]_10C4C929.wem</Path>
+				</File>
+				<File Id="145468338" Language="SFX">
+					<ShortName>harvest [2023-07-09 113326].wav</ShortName>
+					<Path>SFX\harvest [2023-07-09 113326]_10C4C929_F6E2DF21.wem</Path>
+				</File>
+				<File Id="193402257" Language="SFX">
+					<ShortName>ambiente 4.wav</ShortName>
+					<Path>SFX\ambiente 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="210100450" Language="SFX">
+					<ShortName>ambiente 2.wav</ShortName>
+					<Path>SFX\ambiente 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="230260257" Language="SFX">
+					<ShortName>monster hurt 2 [2023-07-09 113325].wav</ShortName>
+					<Path>SFX\monster hurt 2 [2023-07-09 113325]_10C4C929.wem</Path>
+				</File>
+				<File Id="424761582" Language="SFX">
+					<ShortName>monster defeat [2023-07-09 113326].wav</ShortName>
+					<Path>SFX\monster defeat [2023-07-09 113326]_10C4C929.wem</Path>
+				</File>
+				<File Id="607077868" Language="SFX">
+					<ShortName>ambiente destruccion.wav</ShortName>
+					<Path>SFX\ambiente destruccion_D79FB2B7.wem</Path>
+				</File>
+				<File Id="641805799" Language="SFX">
+					<ShortName>player hurt 3 [2023-07-09 113326].wav</ShortName>
+					<Path>SFX\player hurt 3 [2023-07-09 113326]_10C4C929.wem</Path>
+				</File>
+				<File Id="707054253" Language="SFX">
+					<ShortName>step 2 [2023-07-09 113325].wav</ShortName>
+					<Path>SFX\step 2 [2023-07-09 113325]_10C4C929.wem</Path>
+				</File>
+				<File Id="726714015" Language="SFX">
+					<ShortName>monster grunt 1.wav</ShortName>
+					<Path>SFX\monster grunt 1_10C4C929.wem</Path>
+				</File>
+				<File Id="780889274" Language="SFX">
+					<ShortName>special harvest [2023-07-09 113326].wav</ShortName>
+					<Path>SFX\special harvest [2023-07-09 113326]_D79FB2B7.wem</Path>
+				</File>
+				<File Id="819899784" Language="SFX">
+					<ShortName>monster grunt 2.wav</ShortName>
+					<Path>SFX\monster grunt 2_10C4C929.wem</Path>
+				</File>
+				<File Id="898338663" Language="SFX">
+					<ShortName>special attack [2023-07-09 113326].wav</ShortName>
+					<Path>SFX\special attack [2023-07-09 113326]_10C4C929.wem</Path>
+				</File>
+				<File Id="931549822" Language="SFX">
+					<ShortName>player hurt 2 [2023-07-09 113326].wav</ShortName>
+					<Path>SFX\player hurt 2 [2023-07-09 113326]_10C4C929.wem</Path>
+				</File>
+				<File Id="932286612" Language="SFX">
+					<ShortName>ambiente 1.wav</ShortName>
+					<Path>SFX\ambiente 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="977719449" Language="SFX">
+					<ShortName>step 1 [2023-07-09 113325].wav</ShortName>
+					<Path>SFX\step 1 [2023-07-09 113325]_10C4C929.wem</Path>
+				</File>
+				<File Id="991145316" Language="SFX">
+					<ShortName>ambiente 3.wav</ShortName>
+					<Path>SFX\ambiente 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="994360384" Language="SFX">
+					<ShortName>hit tree [2023-07-09 113326].wav</ShortName>
+					<Path>SFX\hit tree [2023-07-09 113326]_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

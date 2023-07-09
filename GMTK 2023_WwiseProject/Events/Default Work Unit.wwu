@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_ambients" ID="{B7D62F96-3C8C-44EB-92DE-8F69032FB6AD}">
+					<ChildrenList>
+						<Action Name="" ID="{A9EB3BE5-C4C7-4A49-948B-E4E5FAD64015}" ShortID="608820465">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambiente 1" ID="{D56EE34D-58E9-4353-9DCD-6950E945F442}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{687580E8-AC20-4CA5-A52D-0B06EADBD30F}" ShortID="685247137">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambiente 2" ID="{F51A0E19-3584-491F-BEB8-80304D558263}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{681760C6-4FC8-42B9-B78C-02684B85EB00}" ShortID="865363997">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambiente 3" ID="{1580ACBF-8AC5-4262-99E9-BAF78B3C75D9}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D3843D16-A008-46E4-A88D-4755660912CF}" ShortID="776578119">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambiente 4" ID="{9D312091-B0D2-4A0B-83A5-02256EB9F97E}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{C0E3843B-2BBD-43D0-92C2-FCBC5B7331D3}" ShortID="512627083">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambiente destruccion" ID="{94AA4E6C-2AFC-468B-B565-B1C5AA817058}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="turn_down_destruction" ID="{9F9FFDEF-EE0D-4CC5-AD3D-F76C2C9C1326}">
+					<ChildrenList>
+						<Action Name="" ID="{4D121E8C-2D2F-49E9-80BF-56AC070E3405}" ShortID="436205681">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="12"/>
+								<Property Name="FadeTime" Type="Real64" Value="1.5"/>
+								<Property Name="Volume" Type="Real64" Value="-96"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambiente destruccion" ID="{94AA4E6C-2AFC-468B-B565-B1C5AA817058}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{6CD801FA-3F0E-4052-9692-2C04BCB56C6E}" ShortID="674525915">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="transformation down" ID="{8B53C083-125C-454B-AFE1-1C61AD49E105}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="turn_up_destruction" ID="{A840FE5E-18BA-4332-97D1-C66F59CDB8CC}">
+					<ChildrenList>
+						<Action Name="" ID="{094F9EEC-7F6D-4B99-8D53-7FD3597EEF5A}" ShortID="1005722678">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="12"/>
+								<Property Name="FadeTime" Type="Real64" Value="1.5"/>
+								<Property Name="Volume" Type="Real64" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ambiente destruccion" ID="{94AA4E6C-2AFC-468B-B565-B1C5AA817058}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{F21C2B8A-765E-4F39-BA3D-39E689EC1BD0}" ShortID="32987782">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="transformation up" ID="{A584971F-F25B-4834-BFB6-BBE21670B343}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="monster_grunt" ID="{0791960D-7056-4FF7-AF05-8EEEED86DDA3}">
+					<ChildrenList>
+						<Action Name="" ID="{82FE4812-EB46-479C-AA46-57FE80FD140F}" ShortID="133079805">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="monster grunt" ID="{6528085B-59BB-42F3-AF5D-7A8EFFF592B3}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="monster_hurt" ID="{579C6E7E-9227-4673-87B9-1F6C3E2966BA}">
+					<ChildrenList>
+						<Action Name="" ID="{393F5F28-508E-43AC-9495-56BA4D2E84A5}" ShortID="23016736">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="monster hurt" ID="{7AC7A6B1-6C35-480F-9414-4E53188C27F2}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_hurt" ID="{DEE93F8C-4B2A-4343-A3A3-0BCD69CA8015}">
+					<ChildrenList>
+						<Action Name="" ID="{DF4B3ADD-134B-4246-81CB-6D7488F46ABF}" ShortID="608099206">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player hurt" ID="{A42D3C8C-233F-4AD6-A375-F4A17BF6B31C}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{3F26E3D0-38DE-49F5-AB3C-2B16F3231CEF}" ShortID="909296508">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="hit tree [2023-07-09 113326]" ID="{635BF912-9BDE-477D-BBF2-6BDB9AB4DEB1}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_attack" ID="{94F95BA8-1BB7-4D74-83E8-117E0DBD3751}">
+					<ChildrenList>
+						<Action Name="" ID="{1B0AA89D-1D67-4D7F-BA66-B230F69A6865}" ShortID="198793476">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="fire blast [2023-07-09 113325]" ID="{1CBEE9A2-DED8-4673-9B20-F472078FEA12}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="player_harvest" ID="{DECFDF32-AC45-48FA-9FCC-58D411DD1B46}">
+					<ChildrenList>
+						<Action Name="" ID="{73B2704F-30F8-48CE-8120-B8A83073476C}" ShortID="338731444">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="harvest [2023-07-09 113326]" ID="{30098185-EAD3-44D7-9E94-638DB21A3EB5}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="hit_tree" ID="{B7204190-DDA0-4CDB-8BB7-3003F8C4BA1A}">
+					<ChildrenList>
+						<Action Name="" ID="{033EB5D1-EE3D-416F-B809-273E2E1D8C9B}" ShortID="348848733">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="hit tree [2023-07-09 113326]" ID="{635BF912-9BDE-477D-BBF2-6BDB9AB4DEB1}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="monster_die" ID="{08E43422-CBAE-43B0-B0BC-E67662472F3E}">
+					<ChildrenList>
+						<Action Name="" ID="{7B48121F-059A-4ABF-8117-A8AA95BE8A5E}" ShortID="560629788">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="monster defeat [2023-07-09 113326]" ID="{CC3FF455-8AFD-434A-836B-22FB14571F66}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="special_attack" ID="{400B1758-491D-4FF3-AE72-0783274A2100}">
+					<ChildrenList>
+						<Action Name="" ID="{44A47A0B-E853-4ACF-BE1B-858C3E935BD3}" ShortID="165326434">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="special attack [2023-07-09 113326]" ID="{7DAEBF13-5224-42DE-B2E0-7AB641DEF0C8}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="special_harvest" ID="{E8C4579E-777D-47FD-9F09-77B3BE5399A5}">
+					<ChildrenList>
+						<Action Name="" ID="{3517C330-322B-410E-89A8-838F52ADA6F8}" ShortID="601793271">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="special harvest [2023-07-09 113326]" ID="{795DEB5B-A347-4CB4-92F2-856B30505F21}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="transformation_warrior" ID="{58198BBC-07FB-46A7-8A77-AF19A33958B7}">
+					<ChildrenList>
+						<Action Name="" ID="{0276C49F-FF38-430E-AE43-D80B0616DF99}" ShortID="715817647">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="transformation up" ID="{A584971F-F25B-4834-BFB6-BBE21670B343}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="transformation_harvest" ID="{755859FE-9711-474A-ACB2-81FA270384EC}">
+					<ChildrenList>
+						<Action Name="" ID="{808EBDBA-70D4-4F12-BF85-F4744AFFFA3B}" ShortID="38994420">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="transformation down" ID="{8B53C083-125C-454B-AFE1-1C61AD49E105}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_footsteps" ID="{01FA74E8-386E-4D1D-8D64-692C128112A7}">
+					<ChildrenList>
+						<Action Name="" ID="{DA9CC4E7-D0AE-4714-90EE-60D73250DE84}" ShortID="735771744">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="steps" ID="{36CFD8E1-C024-4AB1-9759-8456F8FC7DB4}" WorkUnitID="{B94A5BDA-C2AD-47A6-80D6-99DC14815E32}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

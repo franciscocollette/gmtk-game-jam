@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5AB8CE17-694D-424C-8234-ED2124260AF3}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{5AB8CE17-694D-424C-8234-ED2124260AF3}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="mysoundbanko" ID="{213BDA6E-A6CF-40F5-9054-ED17D03144E3}">
+					<ObjectInclusionList>
+						<ObjectRef Name="turn_up_destruction" ID="{A840FE5E-18BA-4332-97D1-C66F59CDB8CC}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="player_hurt" ID="{DEE93F8C-4B2A-4343-A3A3-0BCD69CA8015}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="monster_die" ID="{08E43422-CBAE-43B0-B0BC-E67662472F3E}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="play_ambients" ID="{B7D62F96-3C8C-44EB-92DE-8F69032FB6AD}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="monster_hurt" ID="{579C6E7E-9227-4673-87B9-1F6C3E2966BA}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="special_harvest" ID="{E8C4579E-777D-47FD-9F09-77B3BE5399A5}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="player_harvest" ID="{DECFDF32-AC45-48FA-9FCC-58D411DD1B46}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="turn_down_destruction" ID="{9F9FFDEF-EE0D-4CC5-AD3D-F76C2C9C1326}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="hit_tree" ID="{B7204190-DDA0-4CDB-8BB7-3003F8C4BA1A}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="play_footsteps" ID="{01FA74E8-386E-4D1D-8D64-692C128112A7}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="player_attack" ID="{94F95BA8-1BB7-4D74-83E8-117E0DBD3751}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="special_attack" ID="{400B1758-491D-4FF3-AE72-0783274A2100}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="monster_grunt" ID="{0791960D-7056-4FF7-AF05-8EEEED86DDA3}" WorkUnitID="{C6AB56D5-1B15-424E-92B6-BAB9894AA88D}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

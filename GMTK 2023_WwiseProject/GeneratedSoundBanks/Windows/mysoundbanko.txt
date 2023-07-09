@@ -1,0 +1,40 @@
+Event	ID	Name			Wwise Object Path	Notes
+	47961629	turn_up_destruction			\Default Work Unit\turn_up_destruction	
+	94063961	play_ambients			\Default Work Unit\play_ambients	
+	1068092414	player_hurt			\Default Work Unit\player_hurt	
+	1523418118	monster_grunt			\Default Work Unit\monster_grunt	
+	1890347823	hit_tree			\Default Work Unit\hit_tree	
+	2224544450	monster_die			\Default Work Unit\monster_die	
+	2263242755	monster_hurt			\Default Work Unit\monster_hurt	
+	2512139449	special_attack			\Default Work Unit\special_attack	
+	2824512041	player_attack			\Default Work Unit\player_attack	
+	3280866240	special_harvest			\Default Work Unit\special_harvest	
+	3421266130	turn_down_destruction			\Default Work Unit\turn_down_destruction	
+	3646203024	player_harvest			\Default Work Unit\player_harvest	
+	3854155799	play_footsteps			\Default Work Unit\play_footsteps	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	27182183	step 3 [2023-07-09 113325]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\step 3 [2023-07-09 113325]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\steps\step 3 [2023-07-09 113325]		61976
+	57319715	fire blast [2023-07-09 113325]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\fire blast [2023-07-09 113325]_62F7715A.wem		\Actor-Mixer Hierarchy\Default Work Unit\fire blast [2023-07-09 113325]		74508
+	59866153	transformation down	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\transformation down_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\transformation down		270484
+	88064209	transformation up	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\transformation up_AE906883.wem		\Actor-Mixer Hierarchy\Default Work Unit\transformation up		247756
+	91241968	player hurt [2023-07-09 113326]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\player hurt [2023-07-09 113326]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\player hurt\player hurt [2023-07-09 113326]		116320
+	92000875	monster hurt [2023-07-09 113325]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\monster hurt [2023-07-09 113325]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\monster hurt\monster hurt [2023-07-09 113325]		92392
+	145468338	harvest [2023-07-09 113326]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\harvest [2023-07-09 113326]_10C4C929_F6E2DF21.wem		\Actor-Mixer Hierarchy\Default Work Unit\harvest [2023-07-09 113326]		109084
+	193402257	ambiente 4	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\ambiente 4_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\music\ambiente 4		8084864
+	210100450	ambiente 2	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\ambiente 2_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\music\ambiente 2		6820924
+	230260257	monster hurt 2 [2023-07-09 113325]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\monster hurt 2 [2023-07-09 113325]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\monster hurt\monster hurt 2 [2023-07-09 113325]		70664
+	424761582	monster defeat [2023-07-09 113326]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\monster defeat [2023-07-09 113326]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\monster defeat [2023-07-09 113326]		136472
+	607077868	ambiente destruccion	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\ambiente destruccion_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\music\ambiente destruccion		5644864
+	641805799	player hurt 3 [2023-07-09 113326]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\player hurt 3 [2023-07-09 113326]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\player hurt\player hurt 3 [2023-07-09 113326]		112488
+	707054253	step 2 [2023-07-09 113325]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\step 2 [2023-07-09 113325]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\steps\step 2 [2023-07-09 113325]		61432
+	726714015	monster grunt 1	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\monster grunt 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\monster grunt\monster grunt 1		367952
+	780889274	special harvest [2023-07-09 113326]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\special harvest [2023-07-09 113326]_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\special harvest [2023-07-09 113326]		261064
+	819899784	monster grunt 2	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\monster grunt 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\monster grunt\monster grunt 2		371444
+	898338663	special attack [2023-07-09 113326]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\special attack [2023-07-09 113326]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\special attack [2023-07-09 113326]		188096
+	931549822	player hurt 2 [2023-07-09 113326]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\player hurt 2 [2023-07-09 113326]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\player hurt\player hurt 2 [2023-07-09 113326]		110664
+	932286612	ambiente 1	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\ambiente 1_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\music\ambiente 1		5644864
+	977719449	step 1 [2023-07-09 113325]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\step 1 [2023-07-09 113325]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\steps\step 1 [2023-07-09 113325]		60664
+	991145316	ambiente 3	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\ambiente 3_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\music\ambiente 3		7299120
+	994360384	hit tree [2023-07-09 113326]	D:\unity projects\GMTK 2023\GMTK 2023\GMTK 2023_WwiseProject\.cache\Windows\SFX\hit tree [2023-07-09 113326]_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\hit tree [2023-07-09 113326]		59488
+

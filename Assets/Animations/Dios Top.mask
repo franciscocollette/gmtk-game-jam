@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dios Top
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Cabeza
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Cabeza/Dtc_Cabeza_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Anular01.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Anular01.L/Dtc_Anular02.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Anular01.L/Dtc_Anular02.L/Dtc_Anular03.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Anular01.L/Dtc_Anular02.L/Dtc_Anular03.L/Dtc_Anular03.L_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Indice01.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Indice01.L/Dtc_Indice02.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Indice01.L/Dtc_Indice02.L/Dtc_Indice03.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Indice01.L/Dtc_Indice02.L/Dtc_Indice03.L/Dtc_Indice03.L_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Medio01.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Medio01.L/Dtc_Medio02.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Medio01.L/Dtc_Medio02.L/Dtc_Medio03.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Medio01.L/Dtc_Medio02.L/Dtc_Medio03.L/Dtc_Medio03.L_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Pinky01.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Pinky01.L/Dtc_Pinky02.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Pinky01.L/Dtc_Pinky02.L/Dtc_Pinky03.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Pinky01.L/Dtc_Pinky02.L/Dtc_Pinky03.L/Dtc_Pinky03.L_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Pulgar01.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Pulgar01.L/Dtc_Pulgar02.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_AnteBrazo.L/Dtc_Mano.L/Dtc_Pulgar01.L/Dtc_Pulgar02.L/Dtc_Pulgar02.L_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_BrazoPlumas01.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_BrazoPlumas01.L/Dtc_BrazoPlumas02.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_BrazoPlumas01.L/Dtc_BrazoPlumas02.L/Dtc_BrazoPlumas02.L_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_BrazoPlumas03.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_BrazoPlumas03.L/Dtc_BrazoPlumas04.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.L/Dtc_Brazo.L/Dtc_BrazoPlumas03.L/Dtc_BrazoPlumas04.L/Dtc_BrazoPlumas04.L_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Macuahuit
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Macuahuit/Dtc_Macuahuit_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Anular01.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Anular01.R/Dtc_Anular02.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Anular01.R/Dtc_Anular02.R/Dtc_Anular03.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Anular01.R/Dtc_Anular02.R/Dtc_Anular03.R/Dtc_Anular03.R_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Indice01.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Indice01.R/Dtc_Indice02.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Indice01.R/Dtc_Indice02.R/Dtc_Indice03.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Indice01.R/Dtc_Indice02.R/Dtc_Indice03.R/Dtc_Indice03.R_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Medio01.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Medio01.R/Dtc_Medio02.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Medio01.R/Dtc_Medio02.R/Dtc_Medio03.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Medio01.R/Dtc_Medio02.R/Dtc_Medio03.R/Dtc_Medio03.R_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Pinky01.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Pinky01.R/Dtc_Pinky02.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Pinky01.R/Dtc_Pinky02.R/Dtc_Pinky03.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Pinky01.R/Dtc_Pinky02.R/Dtc_Pinky03.R/Dtc_Pinky03.R_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Pulgar01.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Pulgar01.R/Dtc_Pulgar02.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_AnteBrazo.R/Dtc_Mano.R/Dtc_Pulgar01.R/Dtc_Pulgar02.R/Dtc_Pulgar02.R_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_BrazoPlumas01.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_BrazoPlumas01.R/Dtc_BrazoPlumas02.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_BrazoPlumas01.R/Dtc_BrazoPlumas02.R/Dtc_BrazoPlumas02.R_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_BrazoPlumas03.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_BrazoPlumas03.R/Dtc_BrazoPlumas04.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Columna01/Dtc_Columna02/Dtc_Columna03/Dtc_Hombro.R/Dtc_Brazo.R/Dtc_BrazoPlumas03.R/Dtc_BrazoPlumas04.R/Dtc_BrazoPlumas04.R_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.L
+    m_Weight: 0
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.L/Dtc_Femur.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.L/Dtc_Femur.L/Dtc_Pierna.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.L/Dtc_Femur.L/Dtc_Pierna.L/Dtc_Pie.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.L/Dtc_Femur.L/Dtc_Pierna.L/Dtc_Pie.L/Dtc_DedosPie.L
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.L/Dtc_Femur.L/Dtc_Pierna.L/Dtc_Pie.L/Dtc_DedosPie.L/Dtc_DedosPie.L_end
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.R
+    m_Weight: 0
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.R/Dtc_Femur.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.R/Dtc_Femur.R/Dtc_Pierna.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.R/Dtc_Femur.R/Dtc_Pierna.R/Dtc_Pie.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.R/Dtc_Femur.R/Dtc_Pierna.R/Dtc_Pie.R/Dtc_DedosPie.R
+    m_Weight: 1
+  - m_Path: Arm_DiosDestruccion/Dtc_Base/Dtc_Pelvis.R/Dtc_Femur.R/Dtc_Pierna.R/Dtc_Pie.R/Dtc_DedosPie.R/Dtc_DedosPie.R_end
+    m_Weight: 1
+  - m_Path: Cinturon1Dios
+    m_Weight: 1
+  - m_Path: Cinturon2Dios
+    m_Weight: 1
+  - m_Path: Cube
+    m_Weight: 1
+  - m_Path: CuerpoDiosDes
+    m_Weight: 1
+  - m_Path: Macuahuit
+    m_Weight: 1
+  - m_Path: ManillasDiosDes
+    m_Weight: 1
+  - m_Path: PlumasdiosDes
+    m_Weight: 1
+  - m_Path: ProcetorPechoDios
+    m_Weight: 1

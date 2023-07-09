@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dios Comerciante Top
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Arm_Comerciante
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Cabeza
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Cabeza/Cte_Cabeza_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Manga.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Manga.L/Cte_Manga.L_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Corazon01.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Corazon01.L/Cte_Corazon02.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Corazon01.L/Cte_Corazon02.L/Cte_Corazon03.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Corazon01.L/Cte_Corazon02.L/Cte_Corazon03.L/Cte_Corazon03.L_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Indice01.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Indice01.L/Cte_Indice02.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Indice01.L/Cte_Indice02.L/Cte_Indice03.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Indice01.L/Cte_Indice02.L/Cte_Indice03.L/Cte_Indice03.L_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Medio01.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Medio01.L/Cte_Medio02.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Medio01.L/Cte_Medio02.L/Cte_Medio03.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Medio01.L/Cte_Medio02.L/Cte_Medio03.L/Cte_Medio03.L_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Pinky01.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Pinky01.L/Cte_Pinky02.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Pinky01.L/Cte_Pinky02.L/Cte_Pinky03.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Pinky01.L/Cte_Pinky02.L/Cte_Pinky03.L/Cte_Pinky03.L_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Pulgar01.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Pulgar01.L/Cte_Pulgar02.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.L/Cte_Brazo.L/Cte_Antebrazo.L/Cte_Mano.L/Cte_Pulgar01.L/Cte_Pulgar02.L/Cte_Pulgar02.L_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Manga.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Manga.R/Cte_Manga.R_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Baston.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Baston.R/Cte_Baston.R_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Corazon01.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Corazon01.R/Cte_Corazon02.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Corazon01.R/Cte_Corazon02.R/Cte_Corazon03.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Corazon01.R/Cte_Corazon02.R/Cte_Corazon03.R/Cte_Corazon03.R_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Indice01.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Indice01.R/Cte_Indice02.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Indice01.R/Cte_Indice02.R/Cte_Indice03.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Indice01.R/Cte_Indice02.R/Cte_Indice03.R/Cte_Indice03.R_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Medio01.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Medio01.R/Cte_Medio02.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Medio01.R/Cte_Medio02.R/Cte_Medio03.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Medio01.R/Cte_Medio02.R/Cte_Medio03.R/Cte_Medio03.R_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Pinky01.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Pinky01.R/Cte_Pinky02.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Pinky01.R/Cte_Pinky02.R/Cte_Pinky03.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Pinky01.R/Cte_Pinky02.R/Cte_Pinky03.R/Cte_Pinky03.R_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Pulgar01.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Pulgar01.R/Cte_Pulgar02.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Column01/Cte_Column02/Cte_Column03/Cte_Hombro.R/Cte_Brazo.R/Cte_Antebrazo.R/Cte_Mano.R/Cte_Pulgar01.R/Cte_Pulgar02.R/Cte_Pulgar02.R_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.L
+    m_Weight: 0
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.L/Cte_femur.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.L/Cte_femur.L/Cte_espinilla.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.L/Cte_femur.L/Cte_espinilla.L/Cte_Pie.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.L/Cte_femur.L/Cte_espinilla.L/Cte_Pie.L/Cte_DedosP.L
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.L/Cte_femur.L/Cte_espinilla.L/Cte_Pie.L/Cte_DedosP.L/Cte_DedosP.L_end
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.R
+    m_Weight: 0
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.R/Cte_femur.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.R/Cte_femur.R/Cte_espinilla.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.R/Cte_femur.R/Cte_espinilla.R/Cte_Pie.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.R/Cte_femur.R/Cte_espinilla.R/Cte_Pie.R/Cte_DedosP.R
+    m_Weight: 1
+  - m_Path: Arm_Comerciante/Cte_base/Cte_Pelvis.R/Cte_femur.R/Cte_espinilla.R/Cte_Pie.R/Cte_DedosP.R/Cte_DedosP.R_end
+    m_Weight: 1
+  - m_Path: Baston
+    m_Weight: 1
+  - m_Path: Comerciante
+    m_Weight: 1
+  - m_Path: Comerciantemaleta
+    m_Weight: 1
